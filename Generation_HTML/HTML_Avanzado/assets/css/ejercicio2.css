@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(6, 136, 12);
+}
+
+h1{
+    text-align: center;
+}
+
+.Comprador{
+    border: 5px solid rgb(95, 134, 206);
+    border-style: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(6, 124, 55);
+    width: 300px;
+    margin: 0 auto;
+}
+
+.ColorCasilla{
+    background-color: rgb(255, 255, 255);
+    border: red;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.BotonEnviar{
+    background-color: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.AcomodoLabel{
+    display: inline-block;
+    width: 80px;
+}
