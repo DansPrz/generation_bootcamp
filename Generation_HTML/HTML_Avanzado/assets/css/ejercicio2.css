@@ -1,25 +1,21 @@
 body{
-    background-color: rgb(6, 136, 12);
-}
-
-h1{
-    text-align: center;
+background-color: white;
 }
 
 .Comprador{
-    border: 5px solid rgb(95, 134, 206);
-    border-style: none;
-    padding: 10px;
+    border: 3px solid rgb(95, 134, 206);s
+    padding: 50px;
     border-radius: 5px;
     background-color: rgb(6, 124, 55);
-    width: 300px;
+    width: 500px;
     margin: 0 auto;
 }
 
-.ColorCasilla{
+input{
     background-color: rgb(255, 255, 255);
-    border: red;
+    border: 3px solid red;
     border-radius: 5px;
+    width: 200px;
     margin-bottom: 10px;
 }
 
@@ -27,7 +23,9 @@ h1{
     background-color: none;
     border: none;
     border-radius: 5px;
-}
+    /*padding-top: 10px;*/
+    /* border-top: 2px dashed white;*/
+} 
 
 .AcomodoLabel{
     display: inline-block;

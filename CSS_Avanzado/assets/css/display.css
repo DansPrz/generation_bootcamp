@@ -1,0 +1,44 @@
+.padre{
+    width: 80%;
+    height: 80vh;
+    border: 1px solid red;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 
+row (fila)
+
+justify content las acomoda horizontalmente 
+(izquierda - derecha)
+
+align items verticalmente (arriba-abajo)
+
+column (columna)
+align items horizontalmente
+(izquierda a derecha)
+
+justify content las acomoda verticalmente
+(arriba - abajo)
+*/
+
+.hijo{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    /* display: inline; */
+}
+.div1{
+    background-color: blue;
+}
+
+.div2{
+    background-color: violet;
+}
+
+.div3{
+    background-color: tomato;
+}
