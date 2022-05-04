@@ -1,0 +1,14 @@
+.card{
+    border: none;
+}
+
+.card-title{
+    text-align: center;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.list-group{
+    font-weight: 200px;
+}
